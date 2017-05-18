@@ -1,3 +1,5 @@
+# http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html
+
 import numpy as np
 import cv2
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
